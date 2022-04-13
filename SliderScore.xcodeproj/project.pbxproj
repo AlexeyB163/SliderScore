@@ -11,6 +11,7 @@
 		CED74C462805A59000EA5F72 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED74C452805A59000EA5F72 /* ContentView.swift */; };
 		CED74C482805A59400EA5F72 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CED74C472805A59400EA5F72 /* Assets.xcassets */; };
 		CED74C4B2805A59400EA5F72 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CED74C4A2805A59400EA5F72 /* Preview Assets.xcassets */; };
+		CED74C8E28069B8300EA5F72 /* SliderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED74C8D28069B8300EA5F72 /* SliderView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		CED74C452805A59000EA5F72 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		CED74C472805A59400EA5F72 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CED74C4A2805A59400EA5F72 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		CED74C8D28069B8300EA5F72 /* SliderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				CED74C432805A59000EA5F72 /* SliderScoreApp.swift */,
 				CED74C452805A59000EA5F72 /* ContentView.swift */,
+				CED74C8D28069B8300EA5F72 /* SliderView.swift */,
 				CED74C472805A59400EA5F72 /* Assets.xcassets */,
 				CED74C492805A59400EA5F72 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CED74C8E28069B8300EA5F72 /* SliderView.swift in Sources */,
 				CED74C462805A59000EA5F72 /* ContentView.swift in Sources */,
 				CED74C442805A59000EA5F72 /* SliderScoreApp.swift in Sources */,
 			);
